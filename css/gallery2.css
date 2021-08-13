@@ -201,7 +201,7 @@
     right: -1px;
     bottom: -1px;
     left: -1px;
-    content: "";
+  
     z-index: 20;
     -webkit-transition: opacity 0.2s ease;
     transition: opacity 0.2s ease;
@@ -214,7 +214,7 @@
     bottom: 7%;
     left: 7%;
     z-index: 100;
-    content: "";
+    
 }
 
 .face.front .titleS {
